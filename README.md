@@ -15,10 +15,10 @@ Kaggle - Netflix Movies and TV Show (https://www.kaggle.com/datasets/shivamb/net
 Python, Pandas, Matplotlib, Seaborn, Google Colab
 
 # Tahapan Analisis
-**Import Dataset**
-**Eksplorasi Awal (jumlah data, kolom, missing values)**
-**Pembersihan Data (drop nulls, ubah kolom menjadi lowercase)**
-**Visualisasi**
+**Import Dataset**,
+**Eksplorasi Awal (jumlah data, kolom, missing values)**.
+**Pembersihan Data (drop nulls, ubah kolom menjadi lowercase)**,
+**Visualisasi** :
 1. Jumlah Movie vs TV Show
 2. Genre populer di Movie dan TV Show
 3. Top Rating yang digunakan
