@@ -18,12 +18,7 @@ Python, Pandas, Matplotlib, Seaborn, Google Colab
 1. Import Dataset
 2. Eksplorasi Awal (jumlah data, kolom, missing values)
 3. Pembersihan Data (drop nulls, ubah kolom menjadi lowercase)
-4. Visualisasi
-● Jumlah Movie vs TV Show
-● Genre populer di Movie dan TV Show
-● Top Rating yang digunakan
-● Negara dengan konten terbanyak (Movie vs TV Show)
-● Sutradara paling produktif
+4. Visualisasi (Jumlah Movie vs TV Show, Genre populer di Movie dan TV Show, Top Rating yang digunakan, Negara dengan konten terbanyak (Movie vs TV Show), Sutradara paling produktif)
 
 # Insight Temuan
 **Movie** adalah tipe konten yang paling banyak di Netflix sebanyak 6.131, 
