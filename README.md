@@ -24,7 +24,7 @@ Python, Pandas, Matplotlib, Seaborn, Google Colab
 **United States (US)** (2.818) menjadi negara dengan jumlah konten terbanyak (movie dan TV show),
 **Rajiv Chilaka** adalah sutradara paling produktif sebanyak 19 konten,
 **International Movies** (2.752) dan **International TV Shows** (1.351) menjadi genre terpopuler,
-**TV-MA** (3.207) adalah rating paling umum ditonton, 
+**TV-MA** (3.207) adalah rating paling umum ditonton. 
 
 # Lisensi
 Dataset bersumber dari Kaggle dan digunakan hanya untuk keperluan pembelajaran dan portfolio
