@@ -8,7 +8,7 @@
 5. Mengetahui rating yang paling sering digunakan
 
 # Dataset 
-Kaggle - Netflix Movies and TV Show (https://www.kaggle.com/datasets/shivamb/netflix-shows)
+Kaggle - Netflix Movies and TV Shows (https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 # Tools
 Python, Pandas, Matplotlib, Seaborn, Google Colab
