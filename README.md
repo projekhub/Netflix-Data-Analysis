@@ -1,4 +1,4 @@
-# Netflix Data Analysist Project 
+# Netflix Data Analysis Project 
 
 # Dalam proyek ini bertujuan untuk:
 1. Mengetahui distribusi konten Movies dan TV Show
